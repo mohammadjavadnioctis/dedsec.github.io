@@ -196,7 +196,10 @@ nav li{
         height:400px;
     }
 
-
+    #button{
+    opacity:0.4;
+    
+    }
 
 
 }
